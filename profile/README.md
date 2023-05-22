@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+Soda is a personal media software.
 
 **Here are some ideas to get you started:**
 
